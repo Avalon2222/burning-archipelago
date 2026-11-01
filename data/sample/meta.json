@@ -1,0 +1,13 @@
+{
+  "titik_api": {
+    "diambil": "2026-11-01 11:01 UTC",
+    "jumlah": 48299,
+    "sumber": "FIRMS CSV terbuka Asia Tenggara 7 hari (NOAA-20, NOAA-21)"
+  },
+  "gfw": {
+    "diambil": "2026-11-01 11:01 UTC",
+    "provinsi": 34,
+    "versi": "v20260424",
+    "ambang_tutupan": 30
+  }
+}
