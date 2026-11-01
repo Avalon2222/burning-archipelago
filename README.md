@@ -62,7 +62,7 @@ membuka API resmi (1–10 hari, arsip sejak 2012). Salin `.streamlit/secrets.tom
 dan isi `map_key`; berkas itu ada di `.gitignore`. Di Streamlit Community Cloud, tempel isi yang sama di *Settings →
 Secrets*.
 
-Pengujian: `python -m pytest tests/ -v` (37 tes, tanpa jaringan). Perbarui data contoh dan tabel GFW:
+Pengujian: `python -m pytest tests/ -v` (37 tes, tanpa jaringan; otomatis jalan di GitHub Actions setiap push dan pull request). Perbarui data contoh dan tabel GFW:
 `python scripts/perbarui_sample.py`.
 
 ## Sumber data
