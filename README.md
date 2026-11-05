@@ -5,9 +5,19 @@
 > (Hansen/UMD) di 38 provinsi Indonesia, per tahun dan per provinsi. Dibangun dengan Python, pandas, numpy, Streamlit,
 > Folium, dan Plotly.
 
-*A live map of Indonesia's satellite fire detections this week, laid over two decades of tree cover loss by province
-and year. Which provinces are burning now, which ones already lost their forest, and how little the two maps overlap.
-Works offline with a bundled sample dataset.*
+## 🇬🇧 In English
+
+**First the smoke, then the silence.** This week's satellite fire detections across Indonesia, laid over two decades of tree cover loss by province and year. Which provinces are burning now, which ones already lost their forest, and how little the two maps actually overlap.
+
+- **Map** the last 7 days of fire hotspots, sized and colored by fire radiative power.
+- **Measure** forest loss 2001–2025 per province, in hectares, % of 2000 cover, or CO₂e.
+- **Test** fires vs loss with a Spearman rank correlation across provinces.
+
+**Built with:** Python, pandas, NumPy, Folium, Plotly, Streamlit  
+**Data:** NASA FIRMS (VIIRS 375 m) and Global Forest Watch (Hansen/UMD)  
+**Engineering:** pytest suite with CI on GitHub Actions, works offline with a bundled sample
+
+*The rest of this README is in Indonesian.*
 
 **🚀 Coba langsung di browser:** [burning-archipelago.streamlit.app](https://burning-archipelago.streamlit.app)
 
