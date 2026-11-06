@@ -1,5 +1,7 @@
 # 🔥 The Burning Archipelago
 
+[![Tes](https://github.com/Avalon2222/burning-archipelago/actions/workflows/tes.yml/badge.svg)](https://github.com/Avalon2222/burning-archipelago/actions/workflows/tes.yml) [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://burning-archipelago.streamlit.app)
+
 > **First the smoke, then the silence.**
 > Peta titik api satelit **NASA FIRMS** minggu ini dan kehilangan tutupan pohon dua dekade dari **Global Forest Watch**
 > (Hansen/UMD) di 38 provinsi Indonesia, per tahun dan per provinsi. Dibangun dengan Python, pandas, numpy, Streamlit,
